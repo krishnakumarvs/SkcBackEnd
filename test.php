@@ -3,10 +3,12 @@
 
 header("Access-Control-Allow-Origin: *");
 
+
+
 	echo '[
     {
       
-      "Name" : "basumathi",
+      "Name" : "Basumathi",
       "category" : "rice",
       "order_no" :"1" ,
       "selected": true
